@@ -7,5 +7,7 @@ Resoures:
 - [Click for Course](https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/learn/lecture/11708948?start=525#questions)
 
 
-[2] https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599
+[2] Keras Study :
+- [Click for Course](Couhttps://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
+
 
