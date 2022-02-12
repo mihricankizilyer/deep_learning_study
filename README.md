@@ -8,6 +8,6 @@ Resoures:
 
 
 [2] Keras Study :
-- [Click for Course](Couhttps://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
+- [Click for Course](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
 
 
