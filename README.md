@@ -6,3 +6,8 @@ Resoures:
 - [Click for Notebook](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 - [Click for Course](https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/learn/lecture/11708948?start=525#questions)
 
+
+[2] Keras Study :
+- [Click for Course](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
+
+
